@@ -1,0 +1,15 @@
+.header__button {
+    margin: 0 64px 0 0;
+    font-family: 'Source Sans Pro' , serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 26px;
+
+    border: 0;
+    min-width: 97px;
+    padding: 12px 17px;
+    border-radius: 10px;
+    background-color: #1044FF;
+    color: white;
+    
+}
