@@ -1,0 +1,13 @@
+.lead__subtitle {
+margin: 14px 0 0 0;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+
+  color: #1044ff;
+}
