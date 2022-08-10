@@ -1,4 +1,6 @@
 .tags {
+  max-width: 370px;
+  min-width: 278px;
   margin: 32px 0 0;
   min-height: 224px;
   border: 1px solid #1044ff;

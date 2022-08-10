@@ -1,4 +1,5 @@
 .content-side {
     margin:  0 0 0 29px;
     max-width: 370px;
+    min-width: 278px;
 }
