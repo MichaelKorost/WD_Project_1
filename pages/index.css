@@ -25,3 +25,12 @@
 @import url(../blocks/blog-profile/blog-profile.css);
 @import url(../blocks/blog-profile/__img/blog-profile__img.css);
 @import url(../blocks/blog-profile/__username/blog-profile__username.css);
+
+
+@import url(../blocks/content-side/content-side.css);
+@import url(../blocks/categories/categories.css);
+@import url(../blocks/categories/__category-container/categories__category-container.css);
+@import url(../blocks/categories/__category/categories__category.css);
+@import url(../blocks/categories/__number/categories__number.css);
+@import url(../blocks/categories/__title/categories__title.css);
+

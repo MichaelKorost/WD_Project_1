@@ -1,0 +1,8 @@
+.categories__category-container {
+    padding: 0 0 9px 0;
+    display: flex;
+    justify-content: space-between;
+    margin: 14px 32px 0 32px;
+    border-bottom: 1px solid #1044ff38;
+    align-items: center;
+}
