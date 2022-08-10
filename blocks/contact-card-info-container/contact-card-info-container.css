@@ -1,0 +1,7 @@
+.contact-card-info-container {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 302px;
+    margin: 0 0 0 30px;
+
+}

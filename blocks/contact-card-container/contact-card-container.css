@@ -1,0 +1,8 @@
+.contact-card-container {
+    margin: 52px 65px;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    width: calc(100% - 196px);
+    gap: 30px;
+}
