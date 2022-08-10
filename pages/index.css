@@ -34,3 +34,12 @@
 @import url(../blocks/categories/__number/categories__number.css);
 @import url(../blocks/categories/__title/categories__title.css);
 
+@import url(../blocks/recent-post/recent-post.css);
+@import url(../blocks/recent-post/__container/recent-post__container.css);
+@import url(../blocks/recent-post/__date/recent-post__date.css);
+@import url(../blocks/recent-post/__img/recent-post__img.css);
+@import url(../blocks/recent-post/__subcontainer/recent-post__subcontainer.css);
+@import url(../blocks/recent-post/__text/recent-post__text.css);
+@import url(../blocks/recent-post/__title/recent-post__title.css);
+
+

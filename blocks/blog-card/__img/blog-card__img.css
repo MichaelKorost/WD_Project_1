@@ -4,3 +4,10 @@
   object-fit: cover;
   border-radius: 10px;
 }
+
+@media (max-width: 1365px) {
+  .blog-card__img {
+    width: 278px;
+    height: 216px;
+  }
+}

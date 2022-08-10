@@ -3,4 +3,11 @@
     flex-wrap: wrap;
     width: 770px;
     column-gap: 30px;
+    justify-content: center;
+}
+
+@media (max-width: 1365px) {
+    .blog-cards {
+        width: 586px;
+    }
 }

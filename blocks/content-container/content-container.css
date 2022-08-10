@@ -1,4 +1,7 @@
 .content-container {
-    margin: 64px 98px ;
+    /* margin: 64px 98px ; */
+    width: 100%;
+    margin: 64px auto ;
     display: flex;
+    justify-content: center;
 }

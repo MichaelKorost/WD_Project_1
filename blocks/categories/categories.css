@@ -6,3 +6,9 @@
     border: 1px solid #1044FF;
     border-radius: 3px;
 }
+
+@media (max-width: 1365px) {
+    .categories {
+        width: 278px;
+    }
+}
