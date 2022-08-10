@@ -1,0 +1,21 @@
+.page-button-text {
+  margin: 0 8px 0 0;
+  padding: 12px 37px;
+  font-family: "Source Sans Pro", serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: blue;
+  text-align: center;
+  border: 1px solid #1044ff4f;
+  border-radius: 3px;
+  background-color: white;
+  cursor: pointer;
+  transition: all 0.1s linear;
+}
+
+.page-button-text:hover {
+  background-color: blue;
+  color: white;
+}
