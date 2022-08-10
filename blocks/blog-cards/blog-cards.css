@@ -1,0 +1,7 @@
+.blog-cards {
+    display: flex;
+    flex-wrap: wrap;
+    width: 770px;
+    /* outline: solid 1px black; */
+    column-gap: 30px;
+}

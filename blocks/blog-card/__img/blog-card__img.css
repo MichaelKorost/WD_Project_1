@@ -1,0 +1,6 @@
+.blog-card__img {
+  width: 370px;
+  height: 288px;
+  object-fit: cover;
+  border-radius: 10px;
+}
