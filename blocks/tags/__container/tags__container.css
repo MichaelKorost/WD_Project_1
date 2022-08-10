@@ -1,0 +1,25 @@
+.tags__container {
+  margin: 0 32px 41px 32px;
+  max-width: 100%;
+  min-height: fit-content;
+  display: grid;
+  row-gap: 8px;
+  column-gap: 28px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+}
+
+.tags p {
+  margin: 0;
+  font-family: "Source Sans Pro", serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  max-width: 110px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+
+  color: #333333;
+}
