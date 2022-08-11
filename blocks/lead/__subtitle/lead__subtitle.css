@@ -11,3 +11,9 @@ margin: 14px 0 0 0;
 
   color: #1044ff;
 }
+
+@media (max-width:768px) {
+  .lead__subtitle {
+    text-align: start;
+  }
+}

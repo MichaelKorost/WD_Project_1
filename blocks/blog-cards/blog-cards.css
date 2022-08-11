@@ -8,6 +8,6 @@
 
 @media (max-width: 1365px) {
     .blog-cards {
-        width: 586px;
+        max-width: 590px;
     }
 }

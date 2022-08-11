@@ -1,11 +1,16 @@
 .lead__title {
   margin: 192px 0 0 0;
-  height: 80px;
-  max-width: fit-content;
   font-family: "Noticia Text";
   font-style: normal;
   font-weight: 700;
   font-size: 72px;
   line-height: 80px;
   color: #1044ff;
+}
+
+@media (max-width:768px) {
+  .lead__title {
+    max-width: min-content;
+    margin: 141px 0 0 0;
+  }
 }

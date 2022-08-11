@@ -4,7 +4,7 @@
     flex-direction: column;
     max-width: 370px;
     min-width: 278px;
-    min-height: 400px;
+    min-height: fit-content;
     border: 1px solid #1044FF;
     border-radius: 3px;
 }

@@ -1,3 +1,4 @@
 .recent-post__subcontainer {
-max-width: 220px;
+  max-width: 220px;
+  margin: 0 0 0 16px;
 }

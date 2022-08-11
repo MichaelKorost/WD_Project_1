@@ -1,6 +1,6 @@
 .recent-post__container {
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     align-items: flex-start;
     margin: 24px 32px 0;
 }

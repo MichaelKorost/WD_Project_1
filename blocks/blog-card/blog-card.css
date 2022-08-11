@@ -1,11 +1,16 @@
 .blog-card {
     height: 552px;
-    max-width: 370px;
-    min-width: 278px;
+    width:  360px;
 }
 
 @media (max-width: 1365px) {
     .blog-card {
-        width: 278px;
+        width: 274px;
+    }
+}
+
+@media (max-width:1024px) {
+    .blog-card{
+        width: 360px;
     }
 }
