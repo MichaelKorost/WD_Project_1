@@ -1,4 +1,10 @@
 .contact-card__img{
-    width: 38px;
-    height: 45px;
+    width: 45px;
+    height: auto;
+}
+
+@media (max-width:1024px) {
+    .contact-card__img{
+        width: 35px;
+    }
 }

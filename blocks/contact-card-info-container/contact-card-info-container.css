@@ -1,7 +1,11 @@
 .contact-card-info-container {
-    display: flex;
-    flex-direction: column;
-    flex-basis: 302px;
-    margin: 0 0 0 30px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 0 30px;
+}
 
+@media (max-width: 1024px) {
+  .contact-card-info-container {
+    margin: 0 0 0 20px;
+  }
 }

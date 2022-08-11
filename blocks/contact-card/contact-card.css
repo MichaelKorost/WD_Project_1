@@ -7,3 +7,10 @@
   flex-basis: calc(100% / 3);
   padding: 0 0 0 32px;
 }
+
+@media (max-width:1024px) {
+  .contact-card{
+    padding: 0 0 0 25px;
+
+  }
+}

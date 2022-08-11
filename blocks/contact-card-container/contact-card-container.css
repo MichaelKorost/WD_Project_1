@@ -6,3 +6,10 @@
     width: calc(100% - 196px);
     gap: 30px;
 }
+
+@media (max-width: 1024px) {
+    .contact-card-container{
+        width: calc(100% - 130px);
+        gap: 30px;
+    }
+}
