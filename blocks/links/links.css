@@ -1,0 +1,25 @@
+.links {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(6, 1fr);
+  margin: 95px 98px 73px 0;
+  flex-grow: 1;
+}
+
+.links > a {
+  margin: 0;
+  text-decoration: none;
+  font-family: "Source Sans Pro", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+@media (max-width: 1024px) {
+  .links {
+    margin: 95px 62px 73px 0;
+    column-gap: 30px;
+  }
+}

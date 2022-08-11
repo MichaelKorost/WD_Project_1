@@ -60,3 +60,13 @@
 @import url(../blocks/contact-card/__title/contact-card__title.css);
 
 @import url(../blocks/contact-card-info-container/contact-card-info-container.css);
+
+@import url(../blocks/information/information.css);
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__description/about__description.css);
+@import url(../blocks/about/__icon/about__icon.css);
+@import url(../blocks/about/__title/about__title.css);
+@import url(../blocks/icon-container/icon-container.css);
+@import url(../blocks/links/links.css);
+@import url(../blocks/links/__title/links__title.css);
+
