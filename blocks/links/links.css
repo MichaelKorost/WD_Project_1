@@ -15,6 +15,7 @@
   font-size: 16px;
   line-height: 150%;
   color: rgba(255, 255, 255, 0.5);
+  transition: color 0.1 linear;
 }
 
 @media (max-width: 1024px) {
@@ -22,4 +23,8 @@
     margin: 95px 62px 73px 0;
     column-gap: 30px;
   }
+}
+
+.links > a:hover{
+  color: white;
 }
