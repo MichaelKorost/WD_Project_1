@@ -1,0 +1,14 @@
+.blog-footer__tags {
+  display: flex;
+  gap: 30px;
+  font-family: "Source Sans Pro", serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+  color: #112a52;
+}
+
+.blog-footer__tags > p {
+    margin: 0;
+}

@@ -3,7 +3,7 @@
     flex-direction: column;
     width: 770px;
     column-gap: 30px;
-    /* background-color: antiquewhite; */
+    background-color: antiquewhite;
 }
 
 @media (max-width: 1365px) {

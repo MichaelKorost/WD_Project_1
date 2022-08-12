@@ -94,5 +94,14 @@
 @import url(../blocks/posted-by/__username/posted-by__username.css);
 @import url(../blocks/posted-by-info-container/posted-by-info-container.css);
 
-@import url(../blocks/);
-@import url(../blocks/);
+@import url(../blocks/blog-footer/blog-footer.css);
+@import url(../blocks/blog-footer/__share/blog-footer__share.css);
+@import url(../blocks/blog-footer/__tags/blog-footer__tags.css);
+
+@import url(../blocks/author/author.css);
+@import url(../blocks/author/__img/author__img.css);
+@import url(../blocks/author-info-container/author-info-container.css);
+@import url(../blocks/author/__label/author__label.css);
+@import url(../blocks/author/__text/author__text.css);
+@import url(../blocks/author/__username/author__username.css);
+
