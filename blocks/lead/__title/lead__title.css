@@ -14,3 +14,10 @@
     margin: 141px 0 0 0;
   }
 }
+
+@media (max-width:320px) {
+  .lead__title {
+    font-size: 42px;
+    line-height: normal;
+  }
+}
