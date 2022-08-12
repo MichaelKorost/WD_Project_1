@@ -6,6 +6,7 @@
   font-weight: 700;
   font-size: 24px;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .blog-card__title:hover {
