@@ -3,3 +3,8 @@
     width: 100%;
     justify-content: center;
 }
+@media (max-width:360px) {
+    .page-button-container {
+        justify-content: space-between;
+    }
+}

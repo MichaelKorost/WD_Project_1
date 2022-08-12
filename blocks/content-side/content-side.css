@@ -3,3 +3,9 @@
     max-width: 370px;
     min-width: 278px;
 }
+
+@media (max-width:768px) {
+    .content-side {
+        margin: 100px auto 0 auto;
+    }
+}
