@@ -9,3 +9,9 @@
     margin: 62px 130px 158px 62px;
   }
 }
+
+@media (max-width:768px) {
+  .about {
+    margin: 30px 28px;
+  }
+}

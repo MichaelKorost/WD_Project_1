@@ -4,3 +4,10 @@
   height: 368px;
   background-color: #1044ff;
 }
+
+@media (max-width:768px) {
+  .information {
+    flex-direction: column;
+    height: 670px;
+  }
+}
