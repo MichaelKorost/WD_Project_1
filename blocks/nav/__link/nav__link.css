@@ -1,0 +1,8 @@
+.nav__link {
+  line-height: 18px;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration: none;
+  color: #1044ff;
+}

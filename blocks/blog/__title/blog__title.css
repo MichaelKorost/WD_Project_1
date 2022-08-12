@@ -1,0 +1,15 @@
+.blog__title {
+  margin: 40px 0 0;
+  line-height: 111%;
+  font-family: "Noticia Text", serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  color: #1044ff;
+}
+
+@media (max-width: 359px) {
+  .blog__title {
+    font-size: 42px;
+  }
+}

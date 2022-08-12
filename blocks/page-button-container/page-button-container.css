@@ -1,0 +1,10 @@
+.page-button-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+@media (max-width: 360px) {
+  .page-button-container {
+    justify-content: space-between;
+  }
+}

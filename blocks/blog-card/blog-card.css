@@ -1,0 +1,22 @@
+.blog-card {
+  height: 552px;
+  width: 360px;
+}
+
+@media (max-width: 1365px) {
+  .blog-card {
+    width: 270px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .blog-card {
+    width: 360px;
+  }
+}
+
+@media (max-width: 460px) {
+  .blog-card {
+    width: 100%;
+  }
+}

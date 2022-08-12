@@ -1,0 +1,18 @@
+.content-container {
+  display: flex;
+  justify-content: center;
+  margin: 64px 98px;
+}
+
+@media (max-width: 1365px) {
+  .content-container {
+    margin: 64px 65px;
+  }
+}
+
+@media (max-width: 768px) {
+  .content-container {
+    margin: 28px;
+    flex-direction: column;
+  }
+}

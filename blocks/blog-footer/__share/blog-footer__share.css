@@ -1,0 +1,21 @@
+.blog-footer__share {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 183px;
+  padding: 14px;
+  line-height: 150%;
+  font-family: "Source Sans Pro", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  border-radius: 3px;
+  border: none;
+  background: #1044ff;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.blog-footer__share > p {
+  margin: 0;
+}

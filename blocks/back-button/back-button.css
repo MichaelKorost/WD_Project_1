@@ -1,0 +1,27 @@
+.back-button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 120px;
+  height: 24px;
+  line-height: 24px;
+  padding: 0;
+  font-family: "Source Sans Pro", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  background-color: transparent;
+  color: #1044ff;
+  transition: opacity 0.1s linear;
+}
+
+.back-button > p {
+  margin: 0;
+}
+
+.back-button:hover {
+  opacity: 0.6;
+}

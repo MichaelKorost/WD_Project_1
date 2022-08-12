@@ -1,0 +1,18 @@
+.blog {
+  display: flex;
+  flex-direction: column;
+  width: 770px;
+  column-gap: 30px;
+}
+
+@media (max-width: 1365px) {
+  .blog {
+    max-width: 590px;
+  }
+}
+
+@media (max-width: 768px) {
+  .blog {
+    max-width: fit-content;
+  }
+}

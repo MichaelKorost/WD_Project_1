@@ -1,0 +1,11 @@
+.about__description {
+  display: flex;
+  max-width: 470px;
+  margin: 0 0 21px;
+  line-height: 160%;
+  font-family: "Source Sans Pro", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #ffffff;
+}

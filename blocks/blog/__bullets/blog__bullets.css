@@ -1,0 +1,15 @@
+.blog__bullets {
+  color: #1044ff;
+  margin: 40px 0 10px 0;
+  padding: 0 0 0 20px;
+  line-height: 150%;
+  font-family: "Source Sans Pro", serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.blog__bullets > li > span {
+  font-size: 16px;
+  color: black;
+}

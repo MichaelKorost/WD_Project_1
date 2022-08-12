@@ -1,0 +1,7 @@
+.blog__main-img {
+    margin: 30px 0 10px;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+}
