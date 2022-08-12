@@ -84,6 +84,8 @@
 @import url(../blocks/blog/__text/blog__text.css);
 @import url(../blocks/blog/__heading/blog__heading.css);
 @import url(../blocks/blog/__highlight/blog__highlight.css);
+@import url(../blocks/blog/__secondary-img/blog__secondary-img.css);
+@import url(../blocks/blog/__bullets/blog__bullets.css);
 
 @import url(../blocks/posted-by/posted-by.css);
 @import url(../blocks/posted-by/__date/posted-by__date.css);
