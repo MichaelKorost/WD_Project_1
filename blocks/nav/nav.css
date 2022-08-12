@@ -1,11 +1,11 @@
 .nav {
-    display: flex;
-    flex-basis: 200px;
-    justify-content: space-around;
+  display: flex;
+  justify-content: space-around;
+  flex-basis: 200px;
 }
 
-@media (max-width:768px) {
-    .nav {
-        display: none;
-    }
+@media (max-width: 768px) {
+  .nav {
+    display: none;
+  }
 }

@@ -1,14 +1,14 @@
 .blog-footer {
   display: flex;
-  justify-content: space-between;
-  margin: 75px 0 0;
   flex-wrap: wrap;
-  gap: 30px;
+  justify-content: space-between;
   align-items: center;
+  margin: 75px 0 0;
+  gap: 30px;
 }
 
 @media (max-width: 768px) {
   .blog-footer {
-    margin: 58px 0 0 ;
-  };
+    margin: 58px 0 0;
+  }
 }

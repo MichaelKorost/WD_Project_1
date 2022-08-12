@@ -1,23 +1,23 @@
 .blog__highlight {
+  position: relative;
+  padding: 0 0 0 27px;
   margin: 40px 0 10px;
-  overflow: visible;
-  font-family: "Source Sans Pro";
+  line-height: 32px;
+  font-family: "Source Sans Pro", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
-  line-height: 32px;
-  position: relative;
-  padding: 0 0 0 27px;
+  overflow: visible;
   color: #333333;
 }
 
 .blog__highlight::before {
   display: inline-block;
-  left: 0;
   position: absolute;
   content: "";
-  border-radius: 5px;
+  left: 0;
   width: 6px;
   height: 100%;
+  border-radius: 5px;
   background-color: #1044ff;
 }

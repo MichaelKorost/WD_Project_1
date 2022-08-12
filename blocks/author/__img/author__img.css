@@ -1,12 +1,12 @@
 .author__img {
-    width: 116px;
-    height: 116px;
-    border-radius: 50%;
+  width: 116px;
+  height: 116px;
+  border-radius: 50%;
 }
 
-@media (max-width:768px) {
-    .author__img {
-        width: 89px;
-        height: 89px;
-    }
+@media (max-width: 768px) {
+  .author__img {
+    width: 89px;
+    height: 89px;
+  }
 }

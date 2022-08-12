@@ -1,9 +1,9 @@
 .posted-by__username {
   margin: 0 40px 0 0;
-  font-family: "Source Sans Pro",serif;
+  line-height: 150%;
+  font-family: "Source Sans Pro", serif;
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
-  line-height: 150%;
   color: #333333;
 }

@@ -1,11 +1,11 @@
 .about__title {
   margin: 0;
+  max-width: fit-content;
+  line-height: 80px;
   font-family: "Lora";
   font-style: normal;
   font-weight: 700;
   font-size: 30px;
-  line-height: 80px;
-  max-width: fit-content;
   letter-spacing: 4px;
   text-transform: uppercase;
   color: #fcd8d4;

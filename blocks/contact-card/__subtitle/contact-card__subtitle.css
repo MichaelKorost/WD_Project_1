@@ -1,7 +1,7 @@
 .contact-card__subtitle {
-  font-family: "Source Sans Pro",serif;
+  margin: 0;
+  font-family: "Source Sans Pro", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  margin: 0;
 }

@@ -1,12 +1,12 @@
 .contact__caption {
   margin: 61px 0 0;
+  text-align: center;
+  line-height: 24px;
   font-family: "Source Sans Pro", serif;
   font-style: normal;
   font-weight: 600;
   font-size: 20px;
-  line-height: 24px;
   color: blue;
-  text-align: center;
 }
 
 @media (max-width: 768px) {

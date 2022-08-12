@@ -1,13 +1,8 @@
 .nav__link {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 14px;
-    line-height: 18px;
-    font-weight: 400;
-    text-decoration: none;
-    color: #1044FF;
-    mix-blend-mode: normal;
-}
-
-.nav__link--bold {
-    font-weight: 700;
+  line-height: 18px;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration: none;
+  color: #1044ff;
 }

@@ -1,20 +1,20 @@
 .blog-cards {
-    display: flex;
-    flex-wrap: wrap;
-    width: 770px;
-    column-gap: 30px;
-    justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 770px;
+  column-gap: 30px;
 }
 
 @media (max-width: 1365px) {
-    .blog-cards {
-        max-width: 590px;
-    }
+  .blog-cards {
+    max-width: 590px;
+  }
 }
 
-@media (max-width:768px) {
-    .blog-cards {
-        max-width: fit-content;
-        margin: 0 auto;
-    }
+@media (max-width: 768px) {
+  .blog-cards {
+    max-width: fit-content;
+    margin: 0 auto;
+  }
 }

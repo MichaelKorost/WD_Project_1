@@ -10,9 +10,8 @@
     height: 216px;
   }
 }
-@media (max-width:1024px) {
-  .blog-card__img{
+@media (max-width: 1024px) {
+  .blog-card__img {
     height: 288px;
   }
 }
-

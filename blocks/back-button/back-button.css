@@ -1,21 +1,20 @@
 .back-button {
-  width: 120px;
-  height: 24px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  width: 120px;
+  height: 24px;
+  line-height: 24px;
   padding: 0;
-  background-color: transparent;
-  border: none;
-  color: blue;
   font-family: "Source Sans Pro", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  border: none;
   cursor: pointer;
-  color: #1044ff;
   text-decoration: none;
+  background-color: transparent;
+  color: #1044ff;
   transition: opacity 0.1s linear;
 }
 

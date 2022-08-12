@@ -1,9 +1,8 @@
 .categories__title {
   margin: 40px 0 9px 32px;
+  line-height: 32px;
   font-family: "Source Sans Pro", serif;
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
-  line-height: 32px;
 }
-

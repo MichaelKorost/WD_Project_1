@@ -1,16 +1,15 @@
 .blog__heading {
   margin: 90px 0 0;
+  line-height: 133%;
   font-family: "Source Sans Pro", serif;
   font-style: normal;
   font-weight: 600;
   font-size: 24px;
-  line-height: 133%;
-  
   color: #112a52;
 }
 
 @media (max-width: 768px) {
-    .blog__heading {
-        margin: 60px 0 0;
-    }
+  .blog__heading {
+    margin: 60px 0 0;
+  }
 }

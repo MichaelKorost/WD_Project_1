@@ -1,8 +1,8 @@
 .author {
-  margin: 70px 0 0;
-  min-height: 193px;
   display: flex;
   align-items: center;
+  margin: 70px 0 0;
+  min-height: 193px;
   gap: 32px;
   border-top: 1px solid #1044ff61;
   border-bottom: 1px solid #1044ff61;

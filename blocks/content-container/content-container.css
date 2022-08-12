@@ -1,7 +1,7 @@
 .content-container {
-  margin: 64px 98px;
   display: flex;
   justify-content: center;
+  margin: 64px 98px;
 }
 
 @media (max-width: 1365px) {
