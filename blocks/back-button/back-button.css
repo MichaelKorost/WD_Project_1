@@ -1,0 +1,22 @@
+.back-button {
+  width: 120px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0;
+  background-color: transparent;
+  border: none;
+  color: blue;
+  font-family: "Source Sans Pro", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  cursor: pointer;
+  color: #1044ff;
+}
+
+.back-button > p {
+  margin: 0;
+}

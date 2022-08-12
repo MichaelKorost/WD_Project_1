@@ -1,0 +1,6 @@
+.posted-by{
+    display: flex;
+    flex-basis: 420px;
+    align-items: center;
+    margin: 47px 0 0;
+}
