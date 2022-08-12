@@ -105,3 +105,5 @@
 @import url(../blocks/author/__text/author__text.css);
 @import url(../blocks/author/__username/author__username.css);
 
+@import url(../blocks/related/related.css);
+@import url(../blocks/related/__title/related__title.css);
