@@ -5,5 +5,11 @@
   font-weight: 700;
   font-size: 30px;
   letter-spacing: 4px;
-  color: #1044FF;
+  color: #1044ff;
+}
+
+@media (max-width: 768px) {
+  .header__title {
+    margin: 0 0 0 28px;
+  }
 }

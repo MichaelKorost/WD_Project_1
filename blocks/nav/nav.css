@@ -3,3 +3,9 @@
     flex-basis: 200px;
     justify-content: space-around;
 }
+
+@media (max-width:768px) {
+    .nav {
+        display: none;
+    }
+}
