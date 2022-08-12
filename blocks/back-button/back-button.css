@@ -15,8 +15,14 @@
   line-height: 24px;
   cursor: pointer;
   color: #1044ff;
+  text-decoration: none;
+  transition: opacity 0.1s linear;
 }
 
 .back-button > p {
   margin: 0;
+}
+
+.back-button:hover {
+  opacity: 0.6;
 }

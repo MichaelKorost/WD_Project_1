@@ -20,6 +20,9 @@
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
-
+cursor: pointer;
   color: #333333;
+}
+.tags p:hover {
+  text-decoration: underline;
 }
