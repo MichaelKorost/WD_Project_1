@@ -9,3 +9,9 @@
     margin: 100px auto 0 auto;
   }
 }
+
+@media (max-width:340px) {
+  .content-side{
+    min-width: 100%;
+  }
+}

@@ -40,3 +40,10 @@
     margin: 60px 28px;
   }
 }
+
+@media (max-width:340px) {
+  .links {
+    justify-items: center;
+    column-gap: 10px;
+  }
+}

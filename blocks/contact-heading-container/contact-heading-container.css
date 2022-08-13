@@ -1,0 +1,10 @@
+.contact-heading-container {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 340px) {
+  .contact-heading-container {
+    margin: 0 65px;
+  }
+}

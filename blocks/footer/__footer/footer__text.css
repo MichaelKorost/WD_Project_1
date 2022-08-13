@@ -7,3 +7,9 @@
   font-size: 16px;
   color: white;
 }
+
+@media (max-width:340px) {
+  .footer__text {
+    font-size: 14px;
+  }
+}
