@@ -43,6 +43,7 @@
 @import "../blocks/page-button-num/page-button-num.css";
 @import "../blocks/page-button-text/page-button-text.css";
 @import "../blocks/contact/contact.css";
+@import "../blocks/contact-heading-container/contact-heading-container.css";
 @import "../blocks/contact/__caption/contact__caption.css";
 @import "../blocks/contact/__title/contact__title.css";
 @import "../blocks/contact-card-container/contact-card-container.css";
