@@ -10,4 +10,4 @@ Responsive blog website made with HTML 5 and CSS using BEM methodology, Grid and
 
 ### Github pages
 
-- [Link to my website on Github pages](https://michaelkorost.github.io/blog_website_design/)
+- [Link to my website on Github pages](https://michaelkorost.github.io/WD_Project_1/)
